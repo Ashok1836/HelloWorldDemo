@@ -1,2 +1,2 @@
 # HelloWorldDemo
-Git Workflow with
+Git Workflow with Hello World
